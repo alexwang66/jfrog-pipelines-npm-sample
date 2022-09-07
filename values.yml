@@ -1,3 +1,3 @@
 myRepo:
-  gitProvider: artifactory
+  gitProvider: alex_github
   path: alexwang66/jfrog-pipelines-npm-sample
